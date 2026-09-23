@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Sắc Nước",
+      "hasCanvas": false,
+      "bodyTextLen": 757,
+      "bodyTextHash": "d1f0fa4b0279e22d09313f2cf3533afd1d033814f2e17d9443aaa84ad7b9713f",
+      "bodyTextPrefix": "STUDIO MÀU NƯỚC Sắc Nước Ba ô sắc tố, nhập tỷ lệ, xem màu thật k",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Sắc Nước",
+      "hasCanvas": false,
+      "bodyTextLen": 757,
+      "bodyTextHash": "d1f0fa4b0279e22d09313f2cf3533afd1d033814f2e17d9443aaa84ad7b9713f",
+      "bodyTextPrefix": "STUDIO MÀU NƯỚC Sắc Nước Ba ô sắc tố, nhập tỷ lệ, xem màu thật k",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
